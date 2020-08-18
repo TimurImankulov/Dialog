@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson13</string>
+    <string name="btnSave_name">Save</string>
+    <string name="tvTitle_name">Success</string>
+    <string name="tvDesc_name">You have successfully saved data.</string>
+    <string name="btnExit_name">Ok</string>
+    <string name="date">%1d/%2d/%3d</string>
+    <string name="etDateOfBirth_hint">Введите дату рождения</string>
+    <string name="etLastName_hint">Last Name</string>
+    <string name="etFirstName_hint">First Name</string>
+</resources>
